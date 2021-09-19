@@ -19,5 +19,5 @@ the partially completed dashboard can be viewed here:
 You can install the development version with:
 
 ``` r
-remotes::install_github("AndrewMcNeilAnalytics/covidashboard")
+remotes::install_github("armcn/covidashboard")
 ```
