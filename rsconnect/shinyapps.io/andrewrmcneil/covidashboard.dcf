@@ -1,0 +1,14 @@
+name: covidashboard
+title: covidashboard
+username:
+account: andrewrmcneil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2634142
+bundleId: 4737357
+url: https://andrewrmcneil.shinyapps.io/covidashboard/
+when: 1624239810.14431
+lastSyncTime: 1624239810.14433
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: api/install_r_packages.R|api/plumber.R|api/refresh_data.log|api/refresh_data.R|data-raw
